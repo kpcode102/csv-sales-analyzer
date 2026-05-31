@@ -1,0 +1,20 @@
+SALES REPORT
+====================
+
+Total Sales: ₹1,138,600
+
+Product Wise Sales:
+Laptop: ₹617,000
+Mouse: ₹24,500
+Keyboard: ₹33,900
+Monitor: ₹133,000
+Printer: ₹53,000
+Headphones: ₹22,800
+Webcam: ₹26,500
+Tablet: ₹130,000
+Speaker: ₹21,000
+Router: ₹8,400
+SSD: ₹68,500
+
+Top Product: Laptop (₹617,000)
+Lowest Product: Router (₹8,400)
