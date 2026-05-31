@@ -1,15 +1,45 @@
 # CSV Sales Analyzer 📊
 
-A simple Python project that analyzes sales data from a CSV file and generates meaningful business insights such as total sales, product-wise revenue, top-performing product, and lowest-performing product.
+A Python project that analyzes sales data from a CSV file and generates insights.
 
 ---
 
-## 🚀 Project Overview
+## 📂 Files
 
-This project reads a CSV file containing product sales data and performs data processing using Python. It demonstrates basic data engineering concepts like data ingestion, transformation, aggregation, and reporting.
+- sales.csv → Input dataset
+- sales_analyzer.py → Main Python script
+- report.txt → Generated output report
 
 ---
 
-## 📂 Dataset Format
+## ⚙️ Features
 
-The CSV file (`sales.csv`) contains data in the following format:
+- Read CSV file
+- Calculate total sales
+- Compute product-wise revenue
+- Find top-selling product
+- Find lowest-selling product
+- Generate report file
+
+---
+
+## 🧠 Tech Used
+
+- Python
+- File Handling
+- Dictionaries
+- Data Processing
+
+---
+
+## 📊 Output Example
+
+- Total Sales: 1138600
+- Top Product: Laptop
+- Lowest Product: Router
+
+---
+
+## 🚀 Purpose
+
+This project demonstrates basic data engineering concepts like data ingestion, transformation, and aggregation.
